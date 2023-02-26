@@ -1,0 +1,3 @@
+[submodule "tutrend"]
+	path = tutrend
+	url = https://github.com/maiTarek98/tutrend.git
